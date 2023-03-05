@@ -1,0 +1,23 @@
+{
+  "name": "scaling-octo-funicular",
+  "version": "1.0.0",
+  "description": "## Your Task",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgriffin2001/scaling-octo-funicular.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisgriffin2001/scaling-octo-funicular/issues"
+  },
+  "homepage": "https://github.com/chrisgriffin2001/scaling-octo-funicular#readme",
+  "dependencies": {
+    "inquirer": "^8.2.2",
+    "jest": "^29.4.3"
+  }
+}
